@@ -1,0 +1,6 @@
+{
+  "name": "Smart City AI Dashboard",
+  "description": "An advanced, real-time Smart City AI Dashboard utilizing Google Gemini for traffic routing, pollution monitoring, water analytics, and crime prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
